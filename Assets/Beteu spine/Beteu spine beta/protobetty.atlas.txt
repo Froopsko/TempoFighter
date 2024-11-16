@@ -1,0 +1,256 @@
+
+protobetty.png
+size: 2005,1939
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_back
+  rotate: true
+  xy: 2, 749
+  size: 366, 894
+  orig: 366, 895
+  offset: 0, 0
+  index: -1
+ARM_front
+  rotate: true
+  xy: 388, 1117
+  size: 361, 841
+  orig: 361, 1236
+  offset: 0, 395
+  index: -1
+CAP
+  rotate: false
+  xy: 1231, 1050
+  size: 764, 378
+  orig: 764, 378
+  offset: 0, 0
+  index: -1
+EYEBROW_1
+  rotate: false
+  xy: 631, 1842
+  size: 210, 95
+  orig: 212, 97
+  offset: 1, 1
+  index: -1
+EYEBROW_2
+  rotate: false
+  xy: 947, 1835
+  size: 114, 102
+  orig: 116, 104
+  offset: 1, 1
+  index: -1
+EYE_line_1
+  rotate: false
+  xy: 1063, 1827
+  size: 161, 110
+  orig: 164, 112
+  offset: 1, 1
+  index: -1
+EYE_line_2
+  rotate: true
+  xy: 843, 1842
+  size: 95, 102
+  orig: 97, 104
+  offset: 1, 1
+  index: -1
+EYE_white_1
+  rotate: false
+  xy: 102, 1888
+  size: 152, 49
+  orig: 154, 51
+  offset: 1, 1
+  index: -1
+EYE_white_2
+  rotate: false
+  xy: 256, 1883
+  size: 87, 54
+  orig: 89, 56
+  offset: 1, 1
+  index: -1
+FACE
+  rotate: false
+  xy: 445, 1865
+  size: 184, 72
+  orig: 186, 74
+  offset: 1, 1
+  index: -1
+HAND_back
+  rotate: false
+  xy: 2, 1165
+  size: 384, 374
+  orig: 384, 374
+  offset: 0, 0
+  index: -1
+HAND_front
+  rotate: true
+  xy: 898, 613
+  size: 435, 453
+  orig: 439, 453
+  offset: 3, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 1353, 543
+  size: 599, 505
+  orig: 599, 505
+  offset: 0, 0
+  index: -1
+Hair_bang_back
+  rotate: true
+  xy: 1497, 1810
+  size: 127, 215
+  orig: 127, 215
+  offset: 0, 0
+  index: -1
+Hair_bang_front
+  rotate: true
+  xy: 1714, 1782
+  size: 155, 289
+  orig: 155, 289
+  offset: 0, 0
+  index: -1
+MOUTH
+  rotate: false
+  xy: 345, 1882
+  size: 98, 55
+  orig: 100, 58
+  offset: 1, 2
+  index: -1
+NECK
+  rotate: false
+  xy: 2, 1614
+  size: 355, 266
+  orig: 355, 266
+  offset: 0, 0
+  index: -1
+PUPIL_1
+  rotate: true
+  xy: 2, 1892
+  size: 45, 48
+  orig: 47, 51
+  offset: 1, 1
+  index: -1
+PUPIL_2
+  rotate: true
+  xy: 52, 1892
+  size: 45, 48
+  orig: 47, 51
+  offset: 1, 1
+  index: -1
+hair_front
+  rotate: false
+  xy: 690, 1480
+  size: 666, 333
+  orig: 666, 333
+  offset: 0, 0
+  index: -1
+overalls_2
+  rotate: true
+  xy: 1226, 1815
+  size: 122, 269
+  orig: 122, 269
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: false
+  xy: 827, 2
+  size: 1089, 539
+  orig: 1089, 549
+  offset: 0, 10
+  index: -1
+sleeve_back
+  rotate: false
+  xy: 359, 1541
+  size: 329, 299
+  orig: 329, 299
+  offset: 0, 0
+  index: -1
+sleeve_front
+  rotate: false
+  xy: 1358, 1430
+  size: 415, 350
+  orig: 415, 350
+  offset: 0, 0
+  index: -1
+toolbox
+  rotate: false
+  xy: 2, 253
+  size: 823, 494
+  orig: 825, 496
+  offset: 1, 1
+  index: -1
+
+protobetty2.png
+size: 1827,1973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 829, 9
+  size: 696, 1044
+  orig: 696, 1044
+  offset: 0, 0
+  index: -1
+FEET_back
+  rotate: false
+  xy: 2, 2
+  size: 825, 574
+  orig: 825, 575
+  offset: 0, 0
+  index: -1
+LEG_front
+  rotate: false
+  xy: 2, 578
+  size: 773, 1393
+  orig: 1524, 1484
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: true
+  xy: 777, 1055
+  size: 916, 1048
+  orig: 916, 1048
+  offset: 0, 0
+  index: -1
+
+protobetty3.png
+size: 1672,2016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FEET_front
+  rotate: false
+  xy: 653, 1456
+  size: 830, 558
+  orig: 830, 558
+  offset: 0, 0
+  index: -1
+LEG_back
+  rotate: true
+  xy: 2, 746
+  size: 708, 1445
+  orig: 727, 1445
+  offset: 19, 0
+  index: -1
+Ponytail
+  rotate: false
+  xy: 2, 26
+  size: 795, 718
+  orig: 795, 718
+  offset: 0, 0
+  index: -1
+hapron
+  rotate: false
+  xy: 799, 2
+  size: 871, 742
+  orig: 871, 742
+  offset: 0, 0
+  index: -1
+overalls_1
+  rotate: false
+  xy: 2, 1460
+  size: 649, 554
+  orig: 649, 554
+  offset: 0, 0
+  index: -1

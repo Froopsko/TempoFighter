@@ -1,0 +1,206 @@
+
+Fighter Wilson - puppet.png
+size: 3009,2738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_back
+  rotate: true
+  xy: 2, 2
+  size: 623, 1640
+  orig: 623, 1640
+  offset: 0, 0
+  index: -1
+EYE_black
+  rotate: false
+  xy: 110, 2579
+  size: 302, 157
+  orig: 303, 157
+  offset: 0, 0
+  index: -1
+EYE_white
+  rotate: true
+  xy: 38, 2668
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+HAIR_back
+  rotate: true
+  xy: 414, 2522
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+HAIR_front
+  rotate: false
+  xy: 2, 1980
+  size: 590, 540
+  orig: 590, 540
+  offset: 0, 0
+  index: -1
+HAND_closed_b
+  rotate: true
+  xy: 2, 1371
+  size: 569, 789
+  orig: 569, 789
+  offset: 0, 0
+  index: -1
+HAND_closed_f
+  rotate: false
+  xy: 2371, 1047
+  size: 620, 798
+  orig: 621, 798
+  offset: 0, 0
+  index: -1
+HAND_closed_rev_b
+  rotate: true
+  xy: 793, 1329
+  size: 575, 734
+  orig: 575, 734
+  offset: 0, 0
+  index: -1
+HAND_closed_rev_f
+  rotate: true
+  xy: 1529, 1263
+  size: 582, 840
+  orig: 582, 840
+  offset: 0, 0
+  index: -1
+HAND_mid_finger_b
+  rotate: true
+  xy: 2, 703
+  size: 624, 1013
+  orig: 624, 1013
+  offset: 0, 0
+  index: -1
+HAND_mid_finger_f
+  rotate: true
+  xy: 1974, 267
+  size: 778, 1033
+  orig: 778, 1033
+  offset: 0, 0
+  index: -1
+HAND_open_b
+  rotate: true
+  xy: 1331, 1906
+  size: 497, 921
+  orig: 497, 921
+  offset: 0, 0
+  index: -1
+HAND_open_rev_b
+  rotate: true
+  xy: 1017, 627
+  size: 634, 955
+  orig: 634, 955
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 594, 1942
+  size: 516, 735
+  orig: 516, 736
+  offset: 0, 1
+  index: -1
+JACKET_front_2
+  rotate: true
+  xy: 1401, 2405
+  size: 331, 1527
+  orig: 331, 1527
+  offset: 0, 0
+  index: -1
+NECK
+  rotate: true
+  xy: 2254, 1847
+  size: 556, 698
+  orig: 556, 698
+  offset: 0, 0
+  index: -1
+PUPIL
+  rotate: false
+  xy: 2, 2702
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+TIE
+  rotate: true
+  xy: 652, 2460
+  size: 276, 747
+  orig: 276, 747
+  offset: 0, 0
+  index: -1
+
+Fighter Wilson - puppet2.png
+size: 2733,3029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAND_open_rev_f
+  rotate: true
+  xy: 1337, 2
+  size: 663, 1073
+  orig: 663, 1073
+  offset: 0, 0
+  index: -1
+LEG_back
+  rotate: false
+  xy: 1337, 667
+  size: 1394, 2360
+  orig: 1394, 2360
+  offset: 0, 0
+  index: -1
+LEG_front+WAIST
+  rotate: false
+  xy: 2, 272
+  size: 1333, 2755
+  orig: 1333, 2755
+  offset: 0, 0
+  index: -1
+
+Fighter Wilson - puppet3.png
+size: 2892,1751
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_front
+  rotate: true
+  xy: 2, 1077
+  size: 672, 1877
+  orig: 672, 1877
+  offset: 0, 0
+  index: -1
+HAND_open_f
+  rotate: true
+  xy: 1881, 947
+  size: 802, 1009
+  orig: 802, 1009
+  offset: 0, 0
+  index: -1
+JACKET_front_1
+  rotate: true
+  xy: 2, 2
+  size: 943, 1885
+  orig: 943, 1885
+  offset: 0, 0
+  index: -1
+
+Fighter Wilson - puppet4.png
+size: 2858,1844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 2
+  size: 1505, 1840
+  orig: 1505, 1840
+  offset: 0, 0
+  index: -1
+JACKET_back
+  rotate: false
+  xy: 1509, 309
+  size: 1347, 1533
+  orig: 1347, 1533
+  offset: 0, 0
+  index: -1

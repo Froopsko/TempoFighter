@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Fighter Betty - puppet_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 540e4060495b26344a09c0d793ca9d69, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 529632bee3a0d34489267e28d363fba8, type: 2}
+  - {fileID: 2100000, guid: 0841f14de7766ec42b590095edd60e94, type: 2}
+  - {fileID: 2100000, guid: 6dcff35faf671dc40b056275af863d6c, type: 2}
+  - {fileID: 2100000, guid: 11bb4f116f7c64646aa6adbb4e358c40, type: 2}
+  - {fileID: 2100000, guid: cfe740c1dab693946a0bc15c0a4391ed, type: 2}

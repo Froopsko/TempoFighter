@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Fighter Wilson - puppet_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 650c6adfcd9be6d4fb3aeee6e30b5fa8, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 108127f0b995a0d4ea71135040070a45, type: 2}
+  - {fileID: 2100000, guid: d3a6bd48a7f4fc44e8e2d70ad1628f00, type: 2}
+  - {fileID: 2100000, guid: e58822e1fe1cfb240b37b98010e3ae2f, type: 2}
+  - {fileID: 2100000, guid: 95018effea49bd340b8520aeb1407f21, type: 2}

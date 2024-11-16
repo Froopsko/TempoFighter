@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b288a552c5187c9448eaad4877ecd5f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skeletonAnimation: {instanceID: 0}
+  - idle: {fileID: 11400000, guid: dedd2ba922875e14f892becc9e4c63a2, type: 2}
+  - walking: {fileID: 11400000, guid: a78397491c416854f9a125d2c2df3a3a, type: 2}
+  - attackFast: {fileID: 11400000, guid: c87065325b0eef241871dbd1eb9cdf24, type: 2}
+  - attackHeavy: {fileID: 11400000, guid: 9259dd10cf195694eae4488d1d15d50a, type: 2}
+  - parry: {fileID: 11400000, guid: 5c20d6358a95d7c4a8019316beac37b0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
